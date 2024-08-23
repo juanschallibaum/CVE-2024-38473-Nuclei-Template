@@ -1,0 +1,10 @@
+admin.php
+php-info.php
+php_info.php
+phpinfo.php
+info.php
+adminer.php
+xmlrpc.php
+bin/cron.php
+cache/index.tpl.php
+cpanel.php

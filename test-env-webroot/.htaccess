@@ -1,0 +1,6 @@
+<Files info.php>
+    AuthType Basic
+    AuthName "PHP Info"
+    AuthUserFile "/app/.htpasswd"
+    Require valid-user
+</Files>
